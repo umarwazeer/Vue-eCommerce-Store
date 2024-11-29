@@ -14,11 +14,11 @@ A responsive eCommerce store built with Vue.js and CSS. The project showcases an
 - CSS
 
 ## Project Images
-![Home Page](src/screenshots/homePage.png)
-![Home Page](src/screenshots/cartPage.png)
-![Home Page](src/screenshots/cartPage2.png)
-![Home Page](src/screenshots/singupPage.png)
-![Cart Page](src/screenshots/footer.png)
+![Home Page](screenshots/homePage.png)
+![Home Page](screenshots/cartPage.png)
+![Home Page](screenshots/cartPage2.png)
+![Home Page](screenshots/singupPage.png)
+![Cart Page](screenshots/footer.png)
 
 ## Getting Started
 1. Clone the repository:
