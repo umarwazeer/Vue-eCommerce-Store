@@ -1,7 +1,7 @@
 # Vue eCommerce Store
 
 ## Overview
-A responsive eCommerce store built with Vue.js and CSS. The project showcases an interactive shopping experience with features like product listing, cart management, and dynamic updates.
+A responsive eCommerce store built with Vue.js and CSS. The project showcases an interactive shopping experience with features like product listing, cart management, and dynamic updates. update
 
 ## Features
 - Dynamic product listing with Vue.js.
