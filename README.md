@@ -1,24 +1,26 @@
-# cms-project
+# Vue eCommerce Store
 
-## Project setup
-```
-npm install
-```
+## Overview
+A responsive eCommerce store built with Vue.js and CSS. The project showcases an interactive shopping experience with features like product listing, cart management, and dynamic updates.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
+- Dynamic product listing with Vue.js.
+- Interactive cart management.
+- Fully responsive design with CSS.
+- Currency formatting and styled cart content.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tech Stack
+- Vue.js
+- CSS
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Project Images
+![Home Page](screenshots/homePage.png)
+![Home Page](screenshots/cartPage.png)
+![Home Page](screenshots/cartPage2.png)
+![Home Page](screenshots/singupPage.png)
+![Cart Page](screenshots/footer.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/umarwazeer/Vue-eCommerce-Store.git

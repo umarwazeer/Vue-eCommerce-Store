@@ -84,11 +84,11 @@
     background-color: blue;
     color: white;
 }
-@media screen and  (min-width: 600px) {
+/* @media screen and  (min-width: 600px) {
     .contaier{
         display: flex-start;
         background-color: white;
         color: black
     }
-}
+} */
 </style>
